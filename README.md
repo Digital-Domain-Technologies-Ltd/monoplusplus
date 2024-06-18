@@ -1,9 +1,11 @@
 # Mono Repo PlusPlus
+
 Plus Plus Pre-configured
 
 ## Environments
-- Preview: https://main--monoplusplus--digitaldomaintechnologiesltd.hlx.page/
-- Live: https://main--monoplusplus--digitaldomaintechnologiesltd.live.page/
+
+- Preview: https://main--monoplusplus--digital-domaintechnologies-ltd.hlx.page/
+- Live: https://main--monoplusplus--digital-domaintechnologies-ltd.live.page/
 
 ## Installation
 
