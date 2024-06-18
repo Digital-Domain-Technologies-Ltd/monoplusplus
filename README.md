@@ -1,9 +1,9 @@
-# CSC
-Richard Millington's CSC page...
+# Mono Repo PlusPlus
+Plus Plus Pre-configured
 
 ## Environments
-- Preview: https://main--csc--ddttom.hlx.page/
-- Live: https://main--csc--ddttom.hlx.live/
+- Preview: https://main--monoplusplus--digitaldomaintechnologiesltd.hlx.page/
+- Live: https://main--monoplusplus--digitaldomaintechnologiesltd.live.page/
 
 ## Installation
 
